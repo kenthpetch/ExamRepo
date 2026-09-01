@@ -46,7 +46,7 @@ body {
 }
 
 .input-box input:focus {
-    border-color: #025a15;
+    border-color: #001aff;
 }
 
 .login-btn {
@@ -54,14 +54,14 @@ body {
     padding: 10px;
     border: none;
     border-radius: 20px;
-    background: #007bff;
+    background: #001aff;
     color: white;
     font-size: 16px;
     cursor: pointer;
 }
 
 .login-btn:hover {
-    background: #0056b3;
+    background: #00ff22;
 }
 
 .register {
